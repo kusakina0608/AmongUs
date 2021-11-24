@@ -6,8 +6,8 @@ import pandas as pd
 
 num_player = 8
 num_mafia = 1
-num_police = 0
-num_medic = 1
+num_police = 2
+num_medic = 2
 
 weight_diff = 1.0
 
